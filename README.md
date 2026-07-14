@@ -68,7 +68,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 
 </div>
 
- &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery97/a58d6d18.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp;&nbsp; $$\color{#70d7ff}{\textsf{music i like !!!!}}$$
+ &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery97/a58d6d18.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp;&nbsp; [music i like !!!]()
 <p align="center">
 <a href="https://open.spotify.com/track/5yaEx1flpZmNBiPyAT8iUx?si=2883e62f063c4d75"><img src="https://i.scdn.co/image/ab67616d0000b27343c9784aec1d1ceb84e8383a" width="120"></a>
 &nbsp;
