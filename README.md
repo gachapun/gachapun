@@ -9,7 +9,8 @@
 
     
 <div align="center">      <br> <br>
-<img src="https://komarev.com/ghpvc/?username=gachapun&color=00dbcd&label=starfishes&abbreviated=true&style=plastic" alt="views" width="105" />
+<img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" height="20" alt="icon" />&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=gachapun&color=00dbcd&label=starfishes&abbreviated=true&style=plastic" alt="views" width="105" />&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" height="20" alt="icon" />
     <br> <br>
     </div>
 <div align="center">
