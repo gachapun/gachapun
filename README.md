@@ -8,7 +8,7 @@
 
 
     
-<div align="center">      <br> <br>    <br> <br>
+<div align="center">      <br> <br> <br>
 <img src="https://komarev.com/ghpvc/?username=gachapun&color=00dbcd&label=starfish&abbreviated=true&style=plastic" alt="views" />
     <br> <br>
     </div>
