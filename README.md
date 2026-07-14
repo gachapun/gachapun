@@ -10,7 +10,7 @@
 <img src="https://biscuit.crd.co/assets/images/gallery42/c9b92c68.gif?v=edffcd2fhttps://biscuit.crd.co/assets/images/gallery42/c9b92c68.gif?v=edffcd2f" width="33"  alt="icon" /> &nbsp; <img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=&abbreviated=true&style=for-the-badge" alt="views" width="50" /></div>
 
 <img align="left" src="https://github.com/user-attachments/assets/a04149ca-db65-4c4f-b685-bd3a5a6c837d" width="233"/><img align="left" src="https://github.com/user-attachments/assets/c775de9d-0b6a-4468-a47d-fd95cbca9bda" height="210"/>
-<br><img src="https://gifcity.carrd.co/assets/images/gallery140/8976b2e5.gif?v=3fc8f5cd" width="20"  alt="icon" />&nbsp;&nbsp; sasha/gigi<br><br>she/he  20yrs ༄.° [bf ♡](https://www.tiktok.com/@noxynoc)<br><br>&nbsp;&nbsp;[best viewed on pc]()<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery05/81cba2f4.gif?v=3fc8f5cd" width="24"  alt="icon" />
+<br><img src="https://gifcity.carrd.co/assets/images/gallery140/8976b2e5.gif?v=3fc8f5cd" width="20"  alt="icon" />&nbsp;&nbsp; sasha/gigi<br><br>she/he  20yrs ༄.° [bf ♡](https://www.tiktok.com/@noxynoc)<br><br>&nbsp;&nbsp;[best viewed on pc](https://github.com/gachapun)<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery05/81cba2f4.gif?v=3fc8f5cd" width="24"  alt="icon" />
  
  <div align="left"><a href="https://www.tiktok.com/@shafflez" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=for-the-badge" height="19" alt="tiktok logo" /></a>&nbsp;
         <a href="https://x.com/shafflez_" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="19" alt="twitter logo" /></a>
@@ -30,7 +30,7 @@
 <img align="left" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" height="97"><img align="left" src="https://github.com/user-attachments/assets/64f9cbdd-0579-484c-8c56-2d609aa10946" width="106"/><img align="left" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" height="97"/>HEY im sasha! i hang out in ponytown sometimes just to interact with people :D<br><br>
 INT PLS! but just be aware i might be offtab so whisper, just in case?
 <br>
- <br>&nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery97/feee5313.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp;&nbsp; [relatable characters ???]()
+ <br>&nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery97/feee5313.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp;&nbsp; [relatable characters ???](https://github.com/gachapun)
   <br>
  <div align="center">
 <img width="99" height="56" alt="stamp" src="https://github.com/user-attachments/assets/eb34b76e-d977-475a-a930-6d8193f099ab" /><img width="99" height="56" alt="stamp (1)" src="https://github.com/user-attachments/assets/fff1f3a4-2580-4a52-9a9f-8909af1ae29d" /><img width="99" height="56" alt="stamp (2)" src="https://github.com/user-attachments/assets/3128de3b-a4cc-4525-9054-c207c508e15a" /><img width="99" height="56" alt="stamp (3)" src="https://github.com/user-attachments/assets/00969ffd-4714-476a-abb5-0835866225c4" /> </div>
@@ -68,7 +68,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 
 </div>
 
- &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery97/a58d6d18.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp;&nbsp; [music i like !!!]()
+ &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery97/a58d6d18.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp;&nbsp; [music i like !!!](https://github.com/gachapun)
 <p align="center">
 <a href="https://open.spotify.com/track/5yaEx1flpZmNBiPyAT8iUx?si=2883e62f063c4d75"><img src="https://i.scdn.co/image/ab67616d0000b27343c9784aec1d1ceb84e8383a" width="120"></a>
 &nbsp;
