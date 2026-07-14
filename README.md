@@ -1,9 +1,9 @@
 
 
-<img align="left" src="https://github.com/user-attachments/assets/9344b9ad-f653-4e7e-99e8-511922d7c6e6" width="25%" >
+<img align="left" src="https://github.com/user-attachments/assets/9344b9ad-f653-4e7e-99e8-511922d7c6e6" width="22%" >
 
 
-<img align="right" src="https://github.com/user-attachments/assets/c8f60cc9-8a85-41fa-9324-8046ef5848df" width="25%">
+<img align="right" src="https://github.com/user-attachments/assets/c8f60cc9-8a85-41fa-9324-8046ef5848df" width="22%">
 
 
 
