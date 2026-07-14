@@ -9,8 +9,8 @@
 
     
 <div align="center">      <br> <br>
-<img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" height="20" alt="icon" />&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=gachapun&color=00dbcd&label=starfishes&abbreviated=true&style=plastic" alt="views" width="105" />&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" height="20" alt="icon" />
+<img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=gachapun&color=00dbcd&label=starfishes&abbreviated=true&style=plastic" alt="views" width="105" />&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" alt="icon" />
     <br> <br>
     </div>
 <div align="center">
@@ -26,7 +26,7 @@
 
 <details>
       <summary>
-        &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery150/e46a9679.gif?v=3fc8f5cd" width="20" height="20" alt="icon" />&nbsp;&nbsp;    
+        &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery150/e46a9679.gif?v=3fc8f5cd" width="20"  alt="icon" />&nbsp;&nbsp;    
 <b>so... whos this?
 </b></summary>
 <br>  
@@ -55,7 +55,7 @@ JUST TALK TO ME! no bites! just be aware i might be offtab so whisper, just in c
 
   <details>
         <summary>
-       &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery150/16e693ff.gif?v=3fc8f5cd" width="20" height="20" alt="icon" />&nbsp;&nbsp;    
+       &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery150/16e693ff.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;&nbsp;    
           <b>interests</b></summary>
 
     
@@ -98,7 +98,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 
   <details>
         <summary>
-    &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery05/6bda5abd.gif?v=3fc8f5cd" width="20" height="20" alt="icon" />&nbsp;&nbsp;            
+    &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery05/6bda5abd.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;&nbsp;            
           <b>byi</b></summary>
 
 <br>   
