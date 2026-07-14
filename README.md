@@ -8,11 +8,12 @@
 
 <br>
 
+
+&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=starfish&abbreviated=true&style=for-the-badge" alt="views" width="130" />&nbsp;&nbsp;
+
 &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery92/9494afc0.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp; $$\color{#595959}{\textsf{best viewed in pc!}}$$
 
-&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;
-<img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=starfish+collected&abbreviated=true&style=for-the-badge" alt="views" width="170" />&nbsp;&nbsp;
-    
 
  <br> 
 <div align="center">
