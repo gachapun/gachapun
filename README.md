@@ -17,8 +17,7 @@
         <a href="https://x.com/shafflez_" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="twitter logo" /></a>
       </div>&nbsp;&nbsp;
 
-
-<img width="420" alt="tumblr_225fbdb4e0a4c95f2ba59153dfa0adc8_736a72c4_400-ezgif com-webp-to-gif-converter" src="https://github.com/user-attachments/assets/f41d52e6-af17-4c0c-9740-182372855125" />
+---
 
 
 <details>
