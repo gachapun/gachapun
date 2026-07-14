@@ -1,17 +1,29 @@
 
 
 
-<img align="left" src="https://github.com/user-attachments/assets/5d33d30d-c65c-4cd9-bcaa-0c2f875a9c81" width="400">
+<img align="left" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" width="22%"/>
 
-<img align="right" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" width="6%"/>
+<img align="right" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" width="22%"/>
 
 <div align="center">
     <br>
 <img src="https://komarev.com/ghpvc/?username=gachapun&color=00dbcd&label=starfish&abbreviated=true&style=plastic" alt="views" />
     </div>
+<div align="center">
+  <img align="center"><img src="https://github.com/user-attachments/assets/232c6e8b-4408-45c8-9699-cf5ce41f1b45" alt="ok" width="40%" />  </p>
+    </div>
+  <div align="center">
+        <a href="https://www.tiktok.com/@shafflez" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=plastic" height="30" alt="tiktok logo" /></a>
+        <a href="https://www.instagram.com/shafflez_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=plastic" height="30" alt="insta logo" /></a>
+        <a href="https://x.com/shafflez_" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="30" alt="twitter logo" /></a>
+      </div>
 
----
+  <div align="center">
+        <a href="https://gachapun.atabook.org/" target="_blank"><img src="https://github.com/user-attachments/assets/837a25ff-9464-4b4e-85c2-b20e0d912905" height="26" alt="atabook" /></a>
+      </div>  
     
+---
+
 <details>
       <summary>
         &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery150/e46a9679.gif?v=3fc8f5cd" width="20" height="20" alt="icon" />&nbsp;&nbsp;    
@@ -19,7 +31,7 @@
 </b></summary>
 <br>  
 
-
+<div align="center">
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="500" valign="top">
@@ -29,8 +41,8 @@ JUST TALK TO ME! no bites! just be aware i might be offtab so whisper, just in c
 </td>
 </tr>
 </table>
+</div>
 
-<br>
  
  &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery97/feee5313.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp;&nbsp; $$\color{#70d7ff}{\textsf{characters that describe me ????}}$$
   <br>
@@ -55,6 +67,7 @@ JUST TALK TO ME! no bites! just be aware i might be offtab so whisper, just in c
         <img src="https://64.media.tumblr.com/f5ac3e63ec42d9b42a61ef6be6219f57/51513407471ed0ec-08/s250x400/65e918d9320e4ad25f5500dae8f90aeef2d30f94.gifv" width="120" alt="stamp" />
 </div>
 
+<div align="center">
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="500" valign="top">
@@ -62,6 +75,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
