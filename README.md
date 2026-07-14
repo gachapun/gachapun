@@ -6,11 +6,15 @@
 <img align="right" src="https://github.com/user-attachments/assets/c8f60cc9-8a85-41fa-9324-8046ef5848df" width="20%">
 
 
+<br>
+
+&nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery92/9494afc0.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp; $$\color{#2e4b63}{\textsf{best viewed in pc!}}$$
+
 
     
-<div align="center">      <br> <br>
+<div align="center">       <br> 
 <img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=gachapun&color=00dbcd&label=starfishes&abbreviated=true&style=plastic" alt="views" width="105" />&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" alt="icon" />
+<img src="https://komarev.com/ghpvc/?username=gachapun&color=00dbcd&label=starfishes&abbreviated=true&style=plastic" alt="views" width="100" />&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" alt="icon" />
     <br> <br>
     </div>
 <div align="center">
