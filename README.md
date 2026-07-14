@@ -18,7 +18,8 @@
       </div>&nbsp;&nbsp;
 
 
----
+<img width="420" alt="tumblr_225fbdb4e0a4c95f2ba59153dfa0adc8_736a72c4_400-ezgif com-webp-to-gif-converter" src="https://github.com/user-attachments/assets/f41d52e6-af17-4c0c-9740-182372855125" />
+
 
 <details>
       <summary>
@@ -129,9 +130,6 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
   <div align="right">
         <a href="https://gachapun.atabook.org/" target="_blank"><img src="https://github.com/user-attachments/assets/837a25ff-9464-4b4e-85c2-b20e0d912905" height="60" alt="atabook" /></a>
       </div>  
-
-
-
 
 
 
