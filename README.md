@@ -8,7 +8,7 @@
 
 <br>
 
-&nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery92/9494afc0.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp; $$\color{#2e4b63}{\textsf{best viewed in pc!}}$$
+&nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery92/9494afc0.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp; $$\color{#595959}{\textsf{best viewed in pc!}}$$
 
 
     
