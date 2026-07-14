@@ -30,7 +30,7 @@
 <details>
       <summary>
         &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery150/e46a9679.gif?v=3fc8f5cd" width="20"  alt="icon" />&nbsp;&nbsp;    
-<b>so... whos this?
+<b>about me
 </b></summary>
 <br>  
 
