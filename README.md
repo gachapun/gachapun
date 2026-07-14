@@ -135,7 +135,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 ---
 
   <div align="right">
-        <a href="https://gachapun.atabook.org/" target="_blank"><img src="https://github.com/user-attachments/assets/837a25ff-9464-4b4e-85c2-b20e0d912905" height="55" alt="atabook" /></a>
+        <a href="https://gachapun.atabook.org/" target="_blank"><img src="https://github.com/user-attachments/assets/837a25ff-9464-4b4e-85c2-b20e0d912905" height="60" alt="atabook" /></a>
       </div>  
 
 
