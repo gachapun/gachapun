@@ -9,7 +9,7 @@
 
     
 <div align="center">      <br> <br>
-<img src="https://komarev.com/ghpvc/?username=gachapun&color=00dbcd&label=starfishes collected&abbreviated=true&style=plastic" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=gachapun&color=00dbcd&label=starfishes&abbreviated=true&style=plastic" alt="views" width="120" />
     <br> <br>
     </div>
 <div align="center">
