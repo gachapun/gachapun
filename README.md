@@ -7,7 +7,7 @@
 
 <div align="center">
 <img align="center" src=https://pix.crd.co/assets/images/gallery22/00a303a1_original.png?v=15eb4270" width="445"> </div>
-
+<br>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=&abbreviated=true&style=for-the-badge" alt="views" width="50" /></div>
 
