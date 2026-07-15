@@ -19,8 +19,6 @@
         <a href="https://x.com/shafflez_" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="19" alt="twitter logo" /></a>
       </div>&nbsp;&nbsp;
 
----
-
 <div align="center">
 <img width="449" alt="image-ezgif com-effects" src="https://64.media.tumblr.com/694ff79efccf8a00e5d11a0a679045d1/c8381bb53f84d080-59/s1280x1920/705eafb736e44ef79b640c4e9d65f73c089c5ea9.pnj" /> </div>
 
