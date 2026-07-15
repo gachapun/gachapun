@@ -61,7 +61,7 @@ INT PLS! but just be aware i might be offtab so whisper, just in case?
 <div align="center">
 <table cellspacing="0" cellpadding="0">
 <tr>
-<td width="408" valign="top">
+<td width="400" valign="top">
 dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fear and hunger, murder drones, tadc, resident evil, dol, project hail mary, iron lung, sonic, final space, inside job, splatoon, pokemon, starters, zelda, kirby, league of legends</p>
 </td>
 </tr>
