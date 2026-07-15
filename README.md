@@ -42,7 +42,7 @@ she/he 20yrs ༄.°&nbsp;&nbsp;
 
 
 <details>
-      <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <summary align="center">  
  &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery150/e46a9679.gif?v=3fc8f5cd" width="20"  alt="icon" />&nbsp;&nbsp;<b>about me
 </b></summary>
 <br>  
@@ -74,7 +74,7 @@ HEY im sasha! i hang out in ponytown sometimes just to talk with anypony! :D<br>
   <hr />
 
   <details>
-        <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <summary align="center">
        &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery150/16e693ff.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;&nbsp;    
           <b>interests</b></summary>
 
@@ -117,7 +117,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
   <hr />
 
   <details>
-        <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <summary align="center">
     &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery05/6bda5abd.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;&nbsp;            
           <b>before int</b></summary>
 
