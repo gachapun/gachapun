@@ -17,7 +17,7 @@
 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/8eb4945b-2f83-4723-b9ee-ecbece99d8b7" width="230"/>
+<img src="https://github.com/user-attachments/assets/8eb4945b-2f83-4723-b9ee-ecbece99d8b7" width="30%"/>
 <br><br>
 <img src="https://gifcity.carrd.co/assets/images/gallery140/8976b2e5.gif?v=3fc8f5cd" width="20" alt="icon" />
 &nbsp;&nbsp;
