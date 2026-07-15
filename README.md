@@ -13,23 +13,28 @@
 <br>
 
 
-&nbsp;&nbsp;<img align="left" src="https://github.com/user-attachments/assets/8eb4945b-2f83-4723-b9ee-ecbece99d8b7" width="230"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" src="https://github.com/user-attachments/assets/c775de9d-0b6a-4468-a47d-fd95cbca9bda" height="227"/>
+
 
 
 <div align="center">
-<table cellspacing="0" cellpadding="0">
-<tr>
-<td width="250" valign="top">
- 
-<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery140/8976b2e5.gif?v=3fc8f5cd" width="20"  alt="icon" />&nbsp;&nbsp; sasha/gigi<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;she/he  20yrs ༄.° [bf ♡](https://www.tiktok.com/@noxynoc)<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery05/81cba2f4.gif?v=3fc8f5cd" width="20"  alt="icon" />&nbsp;&nbsp;[新book](https://gachapun.atabook.org/)<br><br>
- <div align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.tiktok.com/@shafflez" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=for-the-badge" height="19" alt="tiktok logo" /></a>&nbsp;
-        <a href="https://x.com/shafflez_" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="19" alt="twitter logo" /></a>
-      </div>&nbsp;&nbsp;<br><br>
+<img src="https://github.com/user-attachments/assets/8eb4945b-2f83-4723-b9ee-ecbece99d8b7" width="240"/>
+<br><br>
+<img src="https://gifcity.carrd.co/assets/images/gallery140/8976b2e5.gif?v=3fc8f5cd" width="20" alt="icon" />
+&nbsp;&nbsp;
+sasha/gigi
 
- </td>
-</tr>
-</table>
+<br>
+
+she/he 20yrs ༄.°&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@noxynoc">♡</a>&nbsp;&nbsp;
+<img src="https://gifcity.carrd.co/assets/images/gallery05/81cba2f4.gif?v=3fc8f5cd" width="20" alt="icon" />
+&nbsp;&nbsp;
+<a href="https://gachapun.atabook.org/">新book</a>
+
+<a href="https://www.tiktok.com/@shafflez"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=for-the-badge" height="23" alt="TikTok" /></a>&nbsp;<a href="https://x.com/shafflez_"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Twitter" /></a>
+
 </div>
+
 
 ---
 
@@ -38,8 +43,7 @@
 
 <details>
       <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery150/e46a9679.gif?v=3fc8f5cd" width="20"  alt="icon" />&nbsp;&nbsp;    
-<b>about me
+ &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery150/e46a9679.gif?v=3fc8f5cd" width="20"  alt="icon" />&nbsp;&nbsp;<b>about me
 </b></summary>
 <br>  
 
