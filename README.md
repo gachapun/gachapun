@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-<img width="430" alt="image-ezgif com-effects" src="https://64.media.tumblr.com/a1fda0255687c55a3c18ae6683bf86f0/c8381bb53f84d080-41/s1280x1920/b45e44a0848a0a80de9d4fa78e1491f49e9cdb9e.pnj" /> </div>
+<img width="449" alt="image-ezgif com-effects" src="https://64.media.tumblr.com/694ff79efccf8a00e5d11a0a679045d1/c8381bb53f84d080-59/s1280x1920/705eafb736e44ef79b640c4e9d65f73c089c5ea9.pnj" /> </div>
 
 <details>
       <summary>
