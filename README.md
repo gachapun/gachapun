@@ -19,8 +19,7 @@
         <a href="https://x.com/shafflez_" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="19" alt="twitter logo" /></a>
       </div>&nbsp;&nbsp;
 
-<div align="center">
-<img width="449" alt="image-ezgif com-effects" src="https://64.media.tumblr.com/753e20b7c7474bad8202fe2fe4cb42e6/58006214b1c2dc17-83/s2048x3072/54d48b96b0b7d423bb6b59c88c63fef6812321fe.pnj" /> </div><br>
+---
 
 
 
@@ -130,9 +129,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
  </td>
 </tr>
 
-<div align="center">
-<img width="449" alt="image-ezgif com-effects" src="https://64.media.tumblr.com/753e20b7c7474bad8202fe2fe4cb42e6/58006214b1c2dc17-83/s2048x3072/54d48b96b0b7d423bb6b59c88c63fef6812321fe.pnj" /> </div><br>
-
+---
 
   <div align="right">
         <a href="https://gachapun.atabook.org/" target="_blank"><img src="https://github.com/user-attachments/assets/837a25ff-9464-4b4e-85c2-b20e0d912905" height="60" alt="atabook" /></a> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=&abbreviated=true&style=for-the-badge" alt="views" height="110" />
