@@ -155,7 +155,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 <td width="340" valign="top">
     
  * if you treat people's ignorance as a reason to ridicule them instead of an opportunity to educate them calmly
- * assholes in general or people who take ponytown too seriously
+ * people who take ponytown too seriously like pls this is nawt twitter?
  * players who thinks its morally right to be open about their proships or darkships in safe servers
    
 </td>
