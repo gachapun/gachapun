@@ -84,7 +84,7 @@ INT PLS! but just be aware i might be offtab so whisper, just in case?
 
 <div align="center">
    <img src="https://64.media.tumblr.com/b69a30c658a73453fcacbf2d14db753d/27babd1e837c7407-b8/s100x200/334c755944778c35c74a496cb86360b1569cb11e.png" width="80" alt="stamp" />
-        <img src="https://64.media.tumblr.com/47ab44d90d7f2d2130c66dfe43a5afbb/079067f589d53d76-7d/s100x200/5cdc26580c46b0a88db333b78e1be07343e196a2.png" width="80" alt="stamp" />
+        <img src="https://64.media.tumblr.com/8557b5b9c92f76a6c29901d3fcc4cfef/f16e37a805b46855-a7/s100x200/06bb35e22a6ff019a9de978e038a95f393cab2c0.gifv" width="80" alt="stamp" />
         <img src="https://64.media.tumblr.com/f5ac3e63ec42d9b42a61ef6be6219f57/51513407471ed0ec-08/s250x400/65e918d9320e4ad25f5500dae8f90aeef2d30f94.gifv" width="80" alt="stamp" />
 </div>
 
