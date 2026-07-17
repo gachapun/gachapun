@@ -52,7 +52,8 @@ she/he 20yrs ༄.°&nbsp;&nbsp;
 <tr>
 <td width="340" valign="top">
 
-HEY im sasha! i hang out in ponytown sometimes just to talk with anypony! :D<br>INT PLS! but just be aware i might be offtab so whisper, just in case?
+HEY im sasha! i hang out in ponytown sometimes just to talk with anypony !!!!<br>im a digital artist and i love drawing gachapun especially<br>
+INT PLS! but just be aware i might be offtab so whisper, just in case?
 </td>
 </tr>
 </table>
@@ -154,7 +155,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 <td width="340" valign="top">
     
  * if you treat people's ignorance as a reason to ridicule them instead of an opportunity to educate them calmly
- * assholes in general, i dislike public harassing 
+ * assholes in general or people who take ponytown too seriously
  * players who thinks its morally right to be open about their proships or darkships in safe servers
    
 </td>
