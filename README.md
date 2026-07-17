@@ -170,7 +170,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 ---
 
   <div align="left">
-      <img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=&abbreviated=true&style=for-the-badge" alt="views" width="56" />&nbsp;&nbsp;<img src="https://supplies.ju.mp/assets/images/gallery29/e26f5c9e_original.gif?v=2e2c9a9d" alt="views" width="63" />
+      <img src="https://komarev.com/ghpvc/?username=gachapun&color=c708b7&label=&abbreviated=true&style=for-the-badge" alt="views" width="56" />&nbsp;&nbsp;<img src="https://supplies.ju.mp/assets/images/gallery29/e26f5c9e_original.gif?v=2e2c9a9d" alt="views" width="63" />
       </div>  
 
 
